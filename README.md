@@ -1,4 +1,4 @@
-# Java Playland ☕
+# Java Playland 
 
 [ Terjemahkan ke Bahasa Indonesia](https://translate.google.com/translate?sl=en&tl=id&u=https://github.com/anovpad-code/Java-Playground/blob/main/README.md)
 
